@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Belajar Layout</string>
+    <string name="header_title">Jetpack Compose Tutorial</string>
+    <string name="first_paragraph">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs</string>
+    <string name="second_paraghraph">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+    <string name="sign_fire">Fire Sign</string>
+    <string name="skill_fire">Volcano Bomb</string>
+    <string name="element_fire">Fire</string>
+    <string name="sign_water">Water Sign</string>
+    <string name="skill_water">Waterfall Rain</string>
+    <string name="element_water">Water</string>
+    <string name="sign_earth">Earth Sign</string>
+    <string name="skill_earth">Ground-to-earth</string>
+    <string name="element_earth">Earth</string>
+    <string name="sign_wind">Air Sign</string>
+    <string name="skill_wind">Torpedo</string>
+    <string name="element_wind">Wind</string>
+    <string name="sign_thunder">Thunder Sign</string>
+    <string name="skill_thunder">Thunder Storm</string>
+    <string name="element_thunderr">Thunder</string>
+    <string name="sign_nature">Nature Sign</string>
+    <string name="skill_nature">Vines Poison</string>
+    <string name="element_nature">Nature</string>
+</resources>

@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="sign_fire">Fire Sign</string>
+    <string name="skill_fire">Volcano Bomb</string>
+    <string name="element_fire">Element: Fire</string>
+    <string name="sign_water">Water Sign</string>
+    <string name="skill_water">Waterfall Spin</string>
+    <string name="element_water">Element: Water</string>
+    <string name="sign_earth">Earth Sign</string>
+    <string name="skill_earth">Smash-Punch</string>
+    <string name="element_earth">Element: Earth</string>
+    <string name="sign_air">Air Sign</string>
+    <string name="skill_air">Windy Twister</string>
+    <string name="element_air">Element: Air</string>
+    <string name="sign_thunder">Thunder Sign</string>
+    <string name="skill_thunder">Lightning</string>
+    <string name="element_thunder">Element: Thunder</string>
+    <string name="sign_nature">Nature Sign</string>
+    <string name="skill_nature">Vines Twist</string>
+    <string name="element_nature">Element: Nature</string>
 </resources>
